@@ -1,0 +1,10 @@
+asset,vendor,start_date,months
+Chiller CH-1,Acme HVAC,2023-03-15,36
+Rooftop Unit RTU-4,Acme HVAC,2024-06-01,24
+Elevator E-2,Summit Lifts,2022-12-31,48
+Generator G-1,Northwind Power,2025-01-31,12
+Fire Pump FP-1,Beacon Fire,2024-02-29,24
+Boiler B-3,Acme HVAC,2026-09-10,12
+Roof membrane Building C,Ridgeline Roofing,2021-11-20,60
+Access control panel,Sentry Systems,2025-12-01,12
+UPS Server Room,Northwind Power,2024-11-25,24

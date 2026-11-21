@@ -2,6 +2,8 @@
 
 # warranty-expiry-tracker
 
+[![CI](https://github.com/yassine2med/warranty-expiry-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/warranty-expiry-tracker/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Lists the equipment warranties that have already ended, the ones ending soon and the ones still active, from a simple CSV of start dates and warranty lengths.
 
 ![Screenshot](docs/screenshot.png)

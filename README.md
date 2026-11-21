@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="warranty-expiry-tracker" width="100%"></p>
+
 # warranty-expiry-tracker
 
 Lists the equipment warranties that have already ended, the ones ending soon and the ones still active, from a simple CSV of start dates and warranty lengths.
